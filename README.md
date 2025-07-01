@@ -68,7 +68,9 @@ An interactive **Power BI** dashboard with **Python-powered data analysis** to e
 - 🗄️ **SQL** — data aggregation and querying
 
 ##Dashboard
-![Uploading Uber Data Analysis Dashboard.png…]()
+
+![Screenshot 2025-07-01 192516](https://github.com/user-attachments/assets/fe4c6ebf-f9c5-41d3-9195-f49120a1fffc)
+
 
 
 ---
